@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-github-bot-projects",
+  "version": "1.0.0",
+  "description": "github bot for login, creating repo and cloning repo",
+  "scripts": {
+    "github-login": "node github-login.js",
+    "create-repo": "node create-repo.js",
+    "clone-repo": "node clone-repo.js"
+  },
+  "keywords": [
+    "github",
+    "bot"
+  ],
+  "repository": {
+    "url": ""
+  },
+  "author": "Shubham Dutta",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "puppeteer": "^10.1.0"
+  }
+}
