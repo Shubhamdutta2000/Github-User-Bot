@@ -1,6 +1,6 @@
-# Github Workaround Bot
+# Github Bot
 
-> Made this project to login to github, create a repository and clone other's repository by using this bot
+> With this project user can login to github, create a new repository and clone other's repository by providing all credentials.
 
 ## How to use
 
@@ -38,3 +38,8 @@
 ```
     npm run clone-repo
 ```
+
+## Tech Stack
+
+    - nodejs
+    - puppeteer

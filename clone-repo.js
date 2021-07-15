@@ -32,7 +32,7 @@ dotenv.config();
     return cloneLink;
   });
   console.log("Use this command to clone desired repository:\n");
-  console.log("git clone ", cloneLink, "\n");
+  console.log("git clone", cloneLink, "\n");
 
   await page.screenshot({ path: "images/clone_repo.png" });
 
