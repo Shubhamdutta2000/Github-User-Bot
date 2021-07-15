@@ -39,6 +39,24 @@
     npm run clone-repo
 ```
 
+## Run Locally
+
+```
+    git clone https://github.com/Shubhamdutta2000/Github-Bot.git
+
+    npm i
+
+    # For login
+    npm run github-login
+
+    # For creating repository
+    npm run create-repo
+
+    # For cloning repository
+    npm run clone-repo
+
+```
+
 ## Tech Stack
 
     - nodejs
