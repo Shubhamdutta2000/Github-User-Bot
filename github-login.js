@@ -1,5 +1,5 @@
 /**
- * @name Amazon search
+ * @name Github login
  *
  * @desc Looks for a "nyan cat pullover" on amazon.com, goes two page two clicks the third one.
  */

@@ -1,8 +1,7 @@
 /**
- * @name Amazon search
+ * @name Clone Other's Repository
  *
- * @desc Looks for a "nyan cat pullover" on amazon.com, goes two page two clicks the third one.
- */
+ * */
 const puppeteer = require("puppeteer");
 const dotenv = require("dotenv");
 dotenv.config();
